@@ -1,3 +1,8 @@
+/*
+problem: Agounistic Interaction
+Author: Mohamed Nasser
+*/
+
 #include<iostream>
 #include<bits/stdc++.h>
 
