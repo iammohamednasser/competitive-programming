@@ -1,3 +1,8 @@
+/*
+problem: Consistency
+Author: Mohamed Nasser
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 const int nax = 150123;
