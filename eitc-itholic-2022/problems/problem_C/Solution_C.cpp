@@ -1,5 +1,5 @@
 /*
-problem: Agounistic Interaction
+problem: Agonistic Interaction
 Author: Mohamed Nasser
 */
 
