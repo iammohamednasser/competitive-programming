@@ -1,3 +1,8 @@
+/*
+problem: Khaduj and The Monic Polynomials
+Author: Mohamed Nasser
+*/
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
